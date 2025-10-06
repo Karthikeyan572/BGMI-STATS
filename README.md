@@ -30,12 +30,4 @@ Contact
 Plots
 -----
 
-The notebook can save plot images into a `plots/` folder when you run the final cell in the notebook. After running that cell the README will show the images below (if the images exist):
-
-![Histograms](plots/histograms.png)
-
-![Boxplots](plots/boxplots.png)
-
-![KD Ratio Top 5](plots/kd_ratio_top5.png)
-
-![Correlation Heatmap](plots/correlation_heatmap.png)
+The notebook can save plot images into a `plots/` folder when you run the final cell in the notebook. After running that cell the README will show the images below (if the images exist)
